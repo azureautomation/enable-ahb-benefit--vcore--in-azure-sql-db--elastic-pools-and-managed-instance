@@ -1,7 +1,7 @@
 {
     "Author": "Gonzalo Bissio",
     "ContentSize": 5062,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/enable-ahb-benefit-(vcore)-in-azure-sql-db,-elastic-pools-and-managed-instance/master/AHBVcore.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/enable-ahb-benefit--vcore--in-azure-sql-db--elastic-pools-and-managed-instance/master/AHBVcore.ps1",
     "DownloadCount": 336,
     "Id": "Enable-AHB-benefit-Vcore-fce74dc5",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This powershell script will enable the AHB benefit on the subscription ID that you want. The requirements are:Az moduleCreate a folder called TEMP on the C drive: The directory must be C:\\TempThe steps to excute this scrip are:Copy AHBVcore.ps1 and Subscriptionid.txt files to",
     "Title": "Enable AHB benefit (Vcore) in Azure SQL DB, Elastic Pools and Managed instance",
     "UpdatedDate": "2019-12-13T00:00:00",
-    "Url": "https://github.com/azureautomation/enable-ahb-benefit-(vcore)-in-azure-sql-db,-elastic-pools-and-managed-instance",
+    "Url": "https://github.com/azureautomation/enable-ahb-benefit--vcore--in-azure-sql-db--elastic-pools-and-managed-instance",
     "UserTags": "Azure SQL Database, Elastic Pool, Azure SQL Database Managed Instance"
 }
